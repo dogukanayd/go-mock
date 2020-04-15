@@ -21,7 +21,7 @@ func (d *db) FetchMessage(lang string) (string, error) {
 		return "holla", nil
 	}
 
-	return "bzzz", nil
+	return "selam", nil
 }
 
 func (d *db) FetchDefaultMessage() (string, error) {
