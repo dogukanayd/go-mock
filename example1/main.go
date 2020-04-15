@@ -7,9 +7,9 @@ import (
 
 func main() {
 	d := greeter.NewDB()
-
+	// actions check
 	g := greeter.NewGreeter(d, "en")
-	fmt.Println(g.Greet()) // Message is: hello
+	fmt.Println(g.Greet())             // Message is: hello
 	fmt.Println(g.GreetInDefaultMsg()) // Message is: default message
 
 	g = greeter.NewGreeter(d, "es")
