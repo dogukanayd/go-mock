@@ -1,0 +1,2 @@
+[![Build Status](https://travis-ci.org/dogukanayd/go-mock.svg?branch=master)](https://travis-ci.org/dogukanayd/go-mock)
+[![Coverage Status](https://coveralls.io/repos/github/dogukanayd/go-rest/badge.svg?branch=master)](https://coveralls.io/github/dogukanayd/go-rest?branch=master)
